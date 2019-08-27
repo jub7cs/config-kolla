@@ -1,0 +1,4 @@
+{
+    "command": "tgtd -d 1 -f --iscsi portal=10.128.0.2:3260",
+    "config_files": []
+}
